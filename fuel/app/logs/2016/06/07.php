@@ -363,3 +363,31 @@ INFO - 2016-06-07 19:32:37 --> Fuel\Core\Request::execute - Setting main Request
 INFO - 2016-06-07 19:32:37 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
 INFO - 2016-06-07 19:32:37 --> Fuel\Core\Request::execute - Called
 INFO - 2016-06-07 19:32:37 --> Fuel\Core\Request::execute - Setting main Request
+WARNING - 2016-06-07 19:35:35 --> Fuel\Core\Fuel::init - The configured locale ja_JP.UTF-8 is not installed on your system.
+INFO - 2016-06-07 19:35:35 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin/login"
+INFO - 2016-06-07 19:35:35 --> Fuel\Core\Request::execute - Called
+INFO - 2016-06-07 19:35:35 --> Fuel\Core\Request::execute - Setting main Request
+WARNING - 2016-06-07 19:35:40 --> Fuel\Core\Fuel::init - The configured locale ja_JP.UTF-8 is not installed on your system.
+INFO - 2016-06-07 19:35:40 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin/login"
+INFO - 2016-06-07 19:35:40 --> Fuel\Core\Request::execute - Called
+INFO - 2016-06-07 19:35:40 --> Fuel\Core\Request::execute - Setting main Request
+WARNING - 2016-06-07 19:41:03 --> Fuel\Core\Fuel::init - The configured locale ja_JP.UTF-8 is not installed on your system.
+INFO - 2016-06-07 19:41:03 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin/login"
+INFO - 2016-06-07 19:41:03 --> Fuel\Core\Request::execute - Called
+INFO - 2016-06-07 19:41:03 --> Fuel\Core\Request::execute - Setting main Request
+WARNING - 2016-06-07 19:41:41 --> Fuel\Core\Fuel::init - The configured locale ja_JP.UTF-8 is not installed on your system.
+INFO - 2016-06-07 19:41:41 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin/login"
+INFO - 2016-06-07 19:41:41 --> Fuel\Core\Request::execute - Called
+INFO - 2016-06-07 19:41:41 --> Fuel\Core\Request::execute - Setting main Request
+WARNING - 2016-06-07 19:41:50 --> Fuel\Core\Fuel::init - The configured locale ja_JP.UTF-8 is not installed on your system.
+INFO - 2016-06-07 19:41:50 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin/login"
+INFO - 2016-06-07 19:41:50 --> Fuel\Core\Request::execute - Called
+INFO - 2016-06-07 19:41:50 --> Fuel\Core\Request::execute - Setting main Request
+WARNING - 2016-06-07 19:42:12 --> Fuel\Core\Fuel::init - The configured locale ja_JP.UTF-8 is not installed on your system.
+INFO - 2016-06-07 19:42:12 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin/login"
+INFO - 2016-06-07 19:42:12 --> Fuel\Core\Request::execute - Called
+INFO - 2016-06-07 19:42:12 --> Fuel\Core\Request::execute - Setting main Request
+WARNING - 2016-06-07 19:42:19 --> Fuel\Core\Fuel::init - The configured locale ja_JP.UTF-8 is not installed on your system.
+INFO - 2016-06-07 19:42:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "admin/login"
+INFO - 2016-06-07 19:42:19 --> Fuel\Core\Request::execute - Called
+INFO - 2016-06-07 19:42:19 --> Fuel\Core\Request::execute - Setting main Request
