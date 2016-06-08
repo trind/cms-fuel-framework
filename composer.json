@@ -32,6 +32,7 @@
         "phpunit/phpunit": "3.7.*",
         "fabpot/goutte": "~1.0",
         "codeception/aspect-mock": "*"
+ 	"squizlabs/php_codesniffer": "2.*"
     },
     "suggest": {
         "dwoo/dwoo" : "Allow Dwoo templating with the Parser package",
